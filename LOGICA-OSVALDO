@@ -1,0 +1,18 @@
+                                    VARIAVEIS
+
+STRING endereco;
+INTEIRO telefone;
+REAL salario;
+INTEIRO cpf;
+REAL preco;
+BOLLEANA temperatura;
+BOLLEANA casado
+DATE nascimento;
+BOLLEANA vacinado
+REAL preco_gasolina;
+REAL litros_gasolina;
+REAL preco_pao;
+REAL total_compras;
+DATE idade;
+DATE data_contrato;
+STRING nivel_escolaridade;
